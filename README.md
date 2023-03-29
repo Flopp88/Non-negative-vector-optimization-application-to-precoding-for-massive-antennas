@@ -1,6 +1,4 @@
 # Non-negative-vector-optimization-application-to-precoding-for-massive-antennas
 
-Work in progress.
-The filles currently contain the first draft which may be verry unorganized.
+The draft folder contains the calculations of our proposed methods.
 
-The final version will contain the files of the organized draft and respective code.
