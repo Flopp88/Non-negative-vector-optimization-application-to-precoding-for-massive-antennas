@@ -2,3 +2,5 @@
 
 The draft folder contains the calculations of our proposed methods.
 
+The method proposed in the perspectives of our article was also implmented and analyzed (see presentation).
+
